@@ -9,6 +9,8 @@ Features:
 - Calendar Structure
 
 Graphical Design:
+<img width="1057" height="597" alt="Screenshot 2025-09-22 130938" src="https://github.com/user-attachments/assets/3c9cfad7-fd60-4bdc-b4e8-1f59e0e822ac" />
+
 
 
 
