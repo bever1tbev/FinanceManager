@@ -3,8 +3,13 @@ This is a personal project I'm developing whenever I have free time to help me w
 Notable Technologies: Java Swing (FrontEnd), Data Structures, Algorithms
 
 Features:
+- Savings/Income projection
+- Add income
+- Add outgoing payments
+- Calendar Structure
 
 Graphical Design:
+
 
 
 
